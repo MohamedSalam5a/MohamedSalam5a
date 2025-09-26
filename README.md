@@ -45,7 +45,17 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
 
 ## 📚 I'm currently learning
 - React.js ⚛️  
-- Advanced Data Structures & Algorithms  
+- Advanced Data Structures & Algorithms
+
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
+</p>
+
+  ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSalam5a&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSalam5a&theme=radical" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />

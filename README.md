@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
+  <img src="https://github.com/MohamedSalam5a/MohamedSalam5a/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
 </p>
 
 ## 👨‍💻 About Me
 I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning programming languages, frameworks, and implementing creative designs.
 
 <p align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
+  <img src="https://github.com/MohamedSalam5a/MohamedSalam5a/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
 </p>
 
 ## 🚀 Languages & Tools
@@ -40,7 +40,7 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
 </p>
 
 <p align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
+  <img src="https://github.com/MohamedSalam5a/MohamedSalam5a/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
 </p>
 
 ## 📚 I'm currently learning
@@ -48,7 +48,7 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
 - Advanced Data Structures & Algorithms  
 
 <p align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
+  <img src="https://github.com/MohamedSalam5a/MohamedSalam5a/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
 </p>
 
 ## 📊 GitHub Stats
@@ -62,7 +62,7 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
 </p>
 
 <p align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
+  <img src="https://github.com/MohamedSalam5a/MohamedSalam5a/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
 </p>
 
 ## 📬 Contact Me

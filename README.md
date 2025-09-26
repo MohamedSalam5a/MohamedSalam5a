@@ -55,7 +55,7 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
 </p> 
 
 ## 📊 GitHub Stats
-<p align="center"> 
+<p align=""> 
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedSalam5a&show_icons=true&theme=radical" alt="GitHub Stats" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSalam5a&theme=radical" alt="GitHub Streak" /> 
 </p> 

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **MohamedSalam5a/MohamedSalam5a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -52,4 +52,3 @@ Here are some ideas to get you started:
 - 🐙 GitHub: [MohamedSalam5a](https://github.com/MohamedSalam5a)  
 
 - ⚡ Fun fact: ...
--->

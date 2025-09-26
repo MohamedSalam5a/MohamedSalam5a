@@ -4,21 +4,21 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Programmer at work">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
-</p>
 
-<h2 align="center">👨‍💻 About Me</h2>
+  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
+
+
+<h2">👨‍💻 About Me</h2>
 <p align="center">
 I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning programming languages, frameworks, and implementing creative designs.
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
-</p>
 
-<h2 align="center">🚀 Languages & Tools</h2>
-<p align="center">
+  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
+
+
+<h2>🚀 Languages & Tools</h2>
+
   <!-- Web -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -40,25 +40,24 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
-</p>
 
-<h2 align="center">📚 I'm currently learning</h2>
-<p align="center">
+  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
+
+<h2>📚 I'm currently learning</h2>
+
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Advanced%20DSA-008000?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
+<h2 >📊 GitHub Stats</h2>
+
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedSalam5a&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSalam5a&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />

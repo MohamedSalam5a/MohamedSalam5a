@@ -1,7 +1,7 @@
 <h1 align="center">Welcome To Mohamed SaLama's Profile 👋</h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2swajdxZWhqbzh1azFhdjhpMXhkeW5wMDJmMXA5aWl5ejF2aTdkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="500" alt="Coding GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnU1eDBnNnY5eHltM2NrdWVsbXFyMnJva3k4amQzNmR6MTk1cXdubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
 </p>
 
 ---
@@ -48,4 +48,6 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
 ## 📬 Contact Me
 <p align="center">
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://
+  <a href="https://www.linkedin.com/in/mohamedsalamma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/201094194633"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>

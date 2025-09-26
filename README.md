@@ -3,6 +3,8 @@
 ![Developer GIF](https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c58c80c85b8434c1.gif)  
 
 ---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
+
 
 ## 🧑‍💻 About Me  
 I'm Mohamed SaLama from Egypt.  

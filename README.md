@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="4px" />
 </p>
 
 ## 👨‍💻 About Me
 I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning programming languages, frameworks, and implementing creative designs.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="4px" />
 </p>
 
 ## 🚀 Languages & Tools
@@ -40,25 +40,15 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="4px" />
 </p>
 
 ## 📚 I'm currently learning
 - React.js ⚛️  
-- Advanced Data Structures & Algorithms
-
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
-</p>
-
-  ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSalam5a&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSalam5a&theme=radical" alt="GitHub Streak" />
-</p>
+- Advanced Data Structures & Algorithms  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="4px" />
 </p>
 
 ## 📬 Contact Me

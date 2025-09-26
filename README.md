@@ -1,17 +1,17 @@
 <h1 align="center">Welcome To Mohamed SaLama's Profile 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Programmer at work">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2swajdxZWhqbzh1azFhdjhpMXhkeW5wMDJmMXA5aWl5ejF2aTdkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="500" alt="Coding GIF"/>
 </p>
 
 ---
 
-<img src="https://i.imgur.com/6bK8QpT.gif" width="100%" alt="separator" />
+<img src="https://img.shields.io/badge/-██████████-8A2BE2?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2" width="100%" height="3px"/>
 
 ## 👨‍💻 About Me
 I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning programming languages, frameworks, and implementing creative designs.
 
-<img src="https://i.imgur.com/0ZK7u4N.gif" width="100%" alt="separator" />
+<img src="https://img.shields.io/badge/-██████████-00CED1?style=for-the-badge&labelColor=00CED1&color=00CED1" width="100%" height="3px"/>
 
 ## 🚀 Languages & Tools
 
@@ -48,6 +48,4 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
 ## 📬 Contact Me
 <p align="center">
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/201234567890"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
+  <a href="https://

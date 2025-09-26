@@ -1,24 +1,19 @@
 <h1 align="center">Welcome To Mohamed SaLama's Profile 👋</h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Programmer at work">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Programmer at work">
 </p>
 
 ---
 
----
-
-<img src="https://img.shields.io/badge/-██████████-8A2BE2?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2" width="100%" height="3px"/>
+<img src="https://i.imgur.com/6bK8QpT.gif" width="100%" alt="separator" />
 
 ## 👨‍💻 About Me
 I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning programming languages, frameworks, and implementing creative designs.
 
-<img src="https://img.shields.io/badge/-██████████-ADFF2F?style=for-the-badge&labelColor=ADFF2F&color=ADFF2F" width="100%" height="3px"/>
-
-
+<img src="https://i.imgur.com/0ZK7u4N.gif" width="100%" alt="separator" />
 
 ## 🚀 Languages & Tools
-
 
 <p align="center">
   <!-- Web -->
@@ -54,4 +49,5 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
 <p align="center">
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/201234567890"><img src="https:
+  <a href="https://wa.me/201234567890"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>

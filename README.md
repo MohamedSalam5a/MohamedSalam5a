@@ -4,17 +4,20 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Programmer at work">
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
+</p>
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
+<p align="center">
 I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning programming languages, frameworks, and implementing creative designs.
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
 </p>
 
-## 🚀 Languages & Tools
-
+<h2 align="center">🚀 Languages & Tools</h2>
 <p align="center">
   <!-- Web -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,15 +44,17 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
   <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
 </p>
 
-## 📚 I'm currently learning
-- React.js ⚛️  
-- Advanced Data Structures & Algorithms
+<h2 align="center">📚 I'm currently learning</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Advanced%20DSA-008000?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
 </p>
 
-  ## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedSalam5a&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSalam5a&theme=radical" alt="GitHub Streak" />
@@ -59,10 +64,9 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
   <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
 </p>
 
-## 📬 Contact Me
+<h2 align="center">📬 Contact Me</h2>
 <p align="center">
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mohamedsalamma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/201094194633"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
-

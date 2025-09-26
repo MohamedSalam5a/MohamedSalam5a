@@ -6,12 +6,15 @@
 
 ---
 
+<img src="https://img.shields.io/badge/-██████████-ff0000?style=for-the-badge&labelColor=ff0000&color=ff0000" width="100%" height="3px"/>
+
 ## 👨‍💻 About Me
 I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning programming languages, frameworks, and implementing creative designs.
 
----
+<img src="https://img.shields.io/badge/-██████████-00ffcc?style=for-the-badge&labelColor=00ffcc&color=00ffcc" width="100%" height="3px"/>
 
 ## 🚀 Languages & Tools
+
 
 <p align="center">
   <!-- Web -->

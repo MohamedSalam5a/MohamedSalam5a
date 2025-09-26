@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Programmer at work">
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
+</p>
 
 ## 👨‍💻 About Me
 I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning programming languages, frameworks, and implementing creative designs.

@@ -1,17 +1,17 @@
 <h1 align="center">Welcome To Mohamed SaLama's Profile 👋</h1>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnU1eDBnNnY5eHltM2NrdWVsbXFyMnJva3k4amQzNmR6MTk1cXdubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Programmer at work">
 </p>
 
 ---
 
-<img src="https://img.shields.io/badge/-██████████-8A2BE2?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2" width="100%" height="3px"/>
-
 ## 👨‍💻 About Me
 I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning programming languages, frameworks, and implementing creative designs.
 
-<img src="https://img.shields.io/badge/-██████████-00CED1?style=for-the-badge&labelColor=00CED1&color=00CED1" width="100%" height="3px"/>
+<p align="center">
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
+</p>
 
 ## 🚀 Languages & Tools
 
@@ -37,17 +37,21 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
+</p>
 
 ## 📚 I'm currently learning
 - React.js ⚛️  
 - Advanced Data Structures & Algorithms  
 
----
+<p align="center">
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="3px" />
+</p>
 
 ## 📬 Contact Me
 <p align="center">
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mohamedsalamma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/201234567890"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/201094194633"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>

@@ -4,15 +4,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Programmer at work">
 </p>
 
-<p align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="4px" />
-</p>
+---
 
 ## 👨‍💻 About Me
 I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning programming languages, frameworks, and implementing creative designs.
 
 <p align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="4px" />
+  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
 </p>
 
 ## 🚀 Languages & Tools
@@ -40,7 +38,7 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
 </p>
 
 <p align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="4px" />
+  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
 </p>
 
 ## 📚 I'm currently learning
@@ -48,7 +46,7 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
 - Advanced Data Structures & Algorithms  
 
 <p align="center">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="4px" />
+  <img src="https://raw.githubusercontent.com/Govindv7555/Govindv7555/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px" />
 </p>
 
 ## 📬 Contact Me
@@ -57,3 +55,4 @@ I'm Mohamed SaLama from Egypt, a Front-End Developer who enjoys learning program
   <a href="https://www.linkedin.com/in/mohamedsalamma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/201094194633"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
+

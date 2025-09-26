@@ -1,54 +1,36 @@
-## Hi there 👋
+# 👋 Welcome To Mohamed SaLama's Profile  
 
-
-**MohamedSalam5a/MohamedSalam5a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...<h1 align="center">Welcome To Mohamed Salama's Profile 👋</h1>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
-</p>
+![Developer GIF](https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c58c80c85b8434c1.gif)  
 
 ---
 
-## 👨‍💻 About Me
-- 🌍 أنا محمد من مصر  
-- 💻 مطور Front-End  
-- 🚀 شغوف بتعلم **React.js** و **Tailwind CSS**  
-- 🎯 هدفي بناء مواقع سريعة وعملية  
+## 🧑‍💻 About Me  
+I'm Mohamed SaLama from Egypt.  
+I'm a **Front-End Developer** passionate about web technologies.  
+I enjoy learning new programming languages & frameworks, and I love implementing designs.  
+Currently, I'm a junior web developer, always improving my skills.  
 
 ---
 
-## 🛠️ Skills
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-</p>
+## 🛠️ Languages and Tools  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSalam5a&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSalam5a&theme=radical" alt="streak"/>
-</p>
+## 📚 I'm currently learning  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
 ---
 
-## 🌐 تواصل معي
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [اضغط هنا](https://www.linkedin.com/in/username)  
-- 🐙 GitHub: [MohamedSalam5a](https://github.com/MohamedSalam5a)  
+## 📫 Contact Me  
 
-- ⚡ Fun fact: ...
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmailHere@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedIn/)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2010XXXXXXX)  
